@@ -17,7 +17,7 @@
 	ms.author="huvalo"/>
 
 # How to use Azure Blob storage from Python
-
+test
 [AZURE.INCLUDE [storage-selector-blob-include](../../includes/storage-selector-blob-include.md)]
 
 ## Overview
